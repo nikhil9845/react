@@ -1,0 +1,46 @@
+.main{
+    height: 650px;
+    width: 500px;
+    background-color: black;
+    border-radius: 20px;
+    border: 5px solid greenyellow;
+}
+input{
+    height: 95px;
+    width:490px;
+    font-size: 40px;
+    color: black;
+    background-color: whitesmoke;
+    
+}
+.display{
+    height: 200px;
+    width: 400px;
+}
+.first,.second,.third,.fourth,.fifth{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+   margin-bottom: 30px;
+   
+}
+.first{
+    margin-top: 10px;
+}
+
+.b{
+    height: 60px;
+    width: 60px;
+    font-size: 25px;
+    background-color:orangered;
+    border-radius: 20px;
+    box-shadow: 2px 5px 5px greenyellow;
+}
+.equals{
+    height: 80px;
+    width: 80px; 
+    font-size: 30px;
+    background-color: orangered;
+    border-radius: 20px;
+    box-shadow: 2px 5px 5px greenyellow;
+}
