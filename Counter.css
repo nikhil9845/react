@@ -1,0 +1,15 @@
+.main-block{
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.btn-group{
+    justify-items: center;
+    align-items: center;
+    background-color: aqua;
+    border: 2px solid red;
+    font-size:larger;
+}
