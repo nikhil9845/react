@@ -1,0 +1,12 @@
+.main-block{
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid red;
+}
+.btn-group{
+    justify-items: center;
+    align-items: center;
+    background-color: aqua;
+}
